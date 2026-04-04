@@ -265,17 +265,6 @@ ln -s /path/to/notify_hook.py /usr/local/bin/id
 
 ---
 
-## Repo name
-
-This project was previously called `freedomfighting`. It's now **ghost-protocol** —
-same energy, shorter and cleaner for a GitHub URL.
-
-```
-git remote set-url origin https://github.com/moscovium-mc/ghost-protocol
-```
-
----
-
 ## Dependencies
 
 ```bash
