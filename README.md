@@ -132,7 +132,7 @@ Useful for attack surface mapping and bug-bounty recon.
 
 **Changes from v1:**
 - Full Python 3 rewrite (`queue`, `urllib.parse`)
-- Modern `requests` retry adapter (handles 429 / 5xx gracefully)
+- Modern `requests` retry adapter (handles 429 / 5xx)
 - Updated User-Agent
 - Cleaner interrupt handling (CTRL+C drains queues before printing results)
 - Fixed `SSLError` handling (no more `.message` attribute)
